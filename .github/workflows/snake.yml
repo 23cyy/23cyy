@@ -3,8 +3,9 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - main  # Remplacez 'main' par la branche par défaut de votre dépôt
-  workflow_dispatch:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -16,7 +17,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "23cyy"  # Assurez-vous que c'est correct
           outputs: dist/snake.svg
 
       - name: Push Snake Animation to the output branch
