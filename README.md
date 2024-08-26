@@ -72,6 +72,25 @@ If you're interested in web development, technology or just want to chat, don't 
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=23cyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=23cyy&theme=react-dark)
+
+![GitHub Snake Animation](https://github.com/23cyy/23cyy/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+---
+
+![GitHub followers](https://img.shields.io/github/followers/23cyy?style=social)
+![GitHub stars](https://img.shields.io/github/stars/23cyy?style=social)
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23cyy&layout=compact&theme=radical)
 
 ## Projects
