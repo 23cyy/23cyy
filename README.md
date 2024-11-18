@@ -16,7 +16,7 @@ If you're interested in web development, technology or just want to chat, don't 
 ## A passion for
 
 - Software Development
-- Web/Mobile Development
+- Web/Mobile Development  
 - Gaming Development & 3D Modeling
 - Cyber security & networks
 - Data science & AI
