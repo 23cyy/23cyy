@@ -2,11 +2,11 @@
 
 ## About Me
 
-As a budding engineer with a passion for computer science and technology, my aim is to explore as much of this discipline as possible. I'm always looking for new challenges and new ways to improve my skills. 
+With a passion for IT, I'm fully committed to exploring this field, always looking for new challenges to hone my skills.
 
-My Hobbies 🎲 : Anime, sports, movies and video games.
+🎲 My hobbies : Anime, sport, films and series, as well as video games.
 
-If you're interested in web development, technology or just want to chat, don't hesitate to contact me ! 😉
+If, like me, you're passionate about technology, it would be a pleasure to chat with you! 😊
 
 ## Education
 
