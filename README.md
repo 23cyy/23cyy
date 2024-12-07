@@ -13,10 +13,12 @@ With a passion for **IT**, I'm fully committed to exploring this field, always s
 - 📊 Data Science & Artificial Intelligence
 
 ### 🎲 Hobbies
-- Watching Anime 🎥
-- Playing Sports ⚽
-- Enjoying Films & Series 🎬
+- Anime 🎥
+- Art 🎨
 - Gaming 🎮
+- Movies 🎬
+- Soccer ⚽
+
 
 ---
 
