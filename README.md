@@ -63,7 +63,9 @@ With a passion for **IT**, I'm fully committed to exploring this field, always s
 Coming Soon...  
 
 ### 📚 Intermediate Projects
-Coming Soon...  
+- **[TODO List](https://todo-list-23cyy.netlify.app) ✅**
+- **[Find mystery number](https://find-mystery-number.netlify.app) 🔢**
+- **[Online clock](https://online-clock.onrender.com) 🕒**
 
 ### 🌱 Beginner Projects
 - **[Online conjugator for group 1 and 2 verbs](https://conjugueur-v2.onrender.com) 📙**
