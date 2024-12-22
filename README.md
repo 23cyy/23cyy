@@ -66,10 +66,8 @@ Coming Soon...
 Coming Soon...  
 
 ### 🌱 Beginner Projects
-
-🌐 <a href="https://ensit-site-test.onrender.com/" target="_blank">static scholar website</a>
-
-📙 <a href="https://conjugueur-v2.onrender.com/" target="_blank">online conjugator for group 1 and 2 verbs</a>
+- **[Online conjugator for group 1 and 2 verbs](https://conjugueur-v2.onrender.com) 📙**
+- **[Static scholar website](https://ensit-site-test.onrender.com) 🌐**
 
 ---
 
