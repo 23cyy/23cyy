@@ -82,3 +82,16 @@ Coming Soon...
 
 **Let's Connect!**  
 Feel free to reach out on any platform for collaborations, questions, or tech discussions. I look forward to hearing from you! 😊
+
+---
+
+<!-- COMPTEUR VISITEURS -->
+![Visitor Count](https://komarev.com/ghpvc/?username=23cyy&style=flat-square)
+
+**Added the Mon 3 Jan 2022**
+
+**Last update on <!--LAST_UPDATE-->**
+
+**<!--COUNTDOWN--> days before new years ⏱ days before new years**
+
+🤖 This README.md is updated with wickedness, by Gabot ❤️
