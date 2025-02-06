@@ -38,7 +38,7 @@ jobs:
           git add README.md
           # Vérifier s'il y a des changements pour éviter un commit inutile
           if ! git diff --cached --quiet; then
-            git commit -m "🤖 Mise à jour automatique du README [skip ci]"
+            git commit -m "Automatic Update of README"
             git push
           else
             echo "Aucun changement détecté."
