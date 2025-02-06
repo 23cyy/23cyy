@@ -94,6 +94,6 @@ Feel free to reach out on any platform for collaborations, questions, or tech di
 
 **328 days before new years ⏱ days before new years**
 
-**<!--LEAP_YEAR_STATUS-->**
+**Ce n'est pas une année bissextile.**
 
 🤖 This README.md part is inspired of "Gabot"
