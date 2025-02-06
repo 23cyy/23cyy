@@ -94,7 +94,7 @@ Feel free to reach out on any platform for collaborations, questions, or tech di
 
 **328 days before new years ⏱ days before new years**
 
-**This is not a leap year.**
+**<!--LEAP_YEAR_STATUS-->**
 
 **Quote of the day : Success is a state of mind.**
 
