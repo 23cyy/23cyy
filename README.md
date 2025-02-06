@@ -44,6 +44,8 @@ With a passion for **IT**, I'm fully committed to exploring this field, always s
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=23cyy&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23cyy&layout=compact&theme=radical)
+<!-- COMPTEUR VISITEURS -->
+![Visitor Count](https://komarev.com/ghpvc/?username=23cyy&style=flat-square)
 
 ---
 
@@ -85,17 +87,14 @@ Feel free to reach out on any platform for collaborations, questions, or tech di
 
 ---
 
-<!-- COMPTEUR VISITEURS -->
-![Visitor Count](https://komarev.com/ghpvc/?username=23cyy&style=flat-square)
+Added the `Sun 4 Aug 2024`
 
-**Added the `Sun 4 Aug 2024`**
+> Last update on Thu Feb 06 2025.
+>
+> 328 days before new years ⏱
+>
+> This is not a leap year.
 
-**Last update on Thu Feb 06 2025**
+**Quote of the day** : *Success is a state of mind.*
 
-**328 days before new years ⏱ days before new years**
-
-**This is not a leap year.**
-
-**Quote of the day : Success is a state of mind.**
-
-🤖 This README.md part is inspired of "Gabot"
+This README.md part is inspired of "Gabot"
