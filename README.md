@@ -90,8 +90,8 @@ Feel free to reach out on any platform for collaborations, questions, or tech di
 
 **Added the Mon 3 Jan 2022**
 
-**Last update on <!--LAST_UPDATE-->**
+**Last update on Thu Feb 06 2025**
 
-**<!--COUNTDOWN--> days before new years ⏱ days before new years**
+**328 days before new years ⏱ days before new years**
 
 🤖 This README.md is updated with wickedness, by Gabot ❤️
