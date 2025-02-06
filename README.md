@@ -88,12 +88,14 @@ Feel free to reach out on any platform for collaborations, questions, or tech di
 <!-- COMPTEUR VISITEURS -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=23cyy&style=flat-square)
 
-**Added the Sun 4 Aug 2024**
+**Added the `Sun 4 Aug 2024`**
 
 **Last update on Thu Feb 06 2025**
 
 **328 days before new years ⏱ days before new years**
 
 **Ce n'est pas une année bissextile.**
+
+**Citation du jour : <!--QUOTE-->**
 
 🤖 This README.md part is inspired of "Gabot"
