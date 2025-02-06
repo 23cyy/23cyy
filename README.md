@@ -96,6 +96,6 @@ Feel free to reach out on any platform for collaborations, questions, or tech di
 
 **Ce n'est pas une année bissextile.**
 
-**Citation du jour : <!--QUOTE-->**
+**Quote of the day : <!--QUOTE-->**
 
 🤖 This README.md part is inspired of "Gabot"
