@@ -19,7 +19,7 @@ citation_du_jour = random.choice([
     "Life is beautiful.",
     "Success is a state of mind.",
     "Take action and anything is possible.",
-    "Every day is a new chance."
+    
 ])
 
 # Mise à jour de la date de dernière modification
