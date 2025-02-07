@@ -36,7 +36,7 @@ citation_du_jour = random.choice(citations)
 # Remplacer les placeholders dans le contenu
 content = re.sub(r'<!--LAST_UPDATE-->', last_update, content)
 content = re.sub(r'<!--COUNTDOWN-->', str(days_before_new_year), content)
-content = re.sub(r'<!--NEW_YEAR-->', str(days_before_new_year), content)
+content = re.sub(r'<!--NEW_YEAR-->', str(next_year), content)
 content = re.sub(r'<!--LEAP_YEAR_STATUS-->', leap_year_message, content)
 content = re.sub(r'<!--QUOTE-->', citation_du_jour, content)
 
