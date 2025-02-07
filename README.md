@@ -75,7 +75,7 @@ Added the `Sun 4 Aug 2024`
 
 > Last update on **Fri Feb 07 2025**
 >
-> **327** days before **327** ⏱
+> **327** days before **<!--NEW_YEAR-->** ⏱
 >
 > **This is not a leap year.**
 
