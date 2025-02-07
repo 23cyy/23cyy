@@ -83,7 +83,7 @@ Added the `Sun 4 Aug 2024`
 > **This is not a leap year.**
 ><!-- LEAP_YEAR_STATUS_END -->
 ><!-- QUOTE_START -->
-> **Quote of the day** : *Take action and anything is possible.*
+> **Quote of the day** : *Success is a state of mind..*
 ><!-- QUOTE_END -->
 
 *This README.md part is inspired of "Gabot"*
