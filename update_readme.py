@@ -16,10 +16,10 @@ days_before_new_year = (new_year_date - now).days
 
 leap_year_message = "This is a leap year !" if calendar.isleap(now.year) else "This is not a leap year."
 citation_du_jour = random.choice([
-    "Life is beautiful.",
-    "Success is a state of mind.",
-    "Take action and anything is possible.",
-    "Every day is a new chance."
+    "Life is beautiful",
+    "Success is a state of mind",
+    "Take action and anything is possible",
+    "Every day is a new chance"
 ])
 
 # Mise à jour de la date de dernière modification
