@@ -73,6 +73,7 @@
 
 Added the `Sun 4 Aug 2024`
 
+
 <!-- LAST_UPDATE_START -->
 Last update on **Fri Feb 07 2025**
 <!-- LAST_UPDATE_END -->
@@ -88,6 +89,7 @@ Last update on **Fri Feb 07 2025**
 <!-- QUOTE_START -->
 **Quote of the day** : *Every day is a new chance.*
 <!-- QUOTE_END -->
+
 
 *This README.md part is inspired of "Gabot"*
 
