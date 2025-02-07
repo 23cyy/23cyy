@@ -73,13 +73,13 @@
 
 Added the `Sun 4 Aug 2024`
 
-> Last update on **Thu Feb 06 2025.**
+> Last update on **<!--LAST_UPDATE-->**
 >
-> **328** days before new year ⏱
+> **<!--COUNTDOWN-->** days before **<!--NEW_YEAR-->** ⏱
 >
-> **This is not a leap year.**
+> **<!--LEAP_YEAR_STATUS-->**
 
-**Quote of the day** : *Life is beautiful.*
+**Quote of the day** : *<!--QUOTE-->*
 
 *This README.md part is inspired of "Gabot"*
 
