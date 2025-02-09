@@ -9,7 +9,7 @@
 ## 👨🏽💻 About Me
 
 🎓 Third-year Computer Science Engineering student @ [ENSIT](https://ensit.ci/)  
-💡 Passionate about solving complex problems through innovative software solutions  
+💡 Passionate about solving complex problems through innovative software solutions
 🌱 Continuously expanding my skills in emerging technologies
 
 ### 🔭 Interests
