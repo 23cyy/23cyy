@@ -30,13 +30,13 @@ jobs:
           GIT_USER_EMAIL: ${{ secrets.USER_EMAIL_GIT }}
           GITHUB_PAT: ${{ secrets.PAT_GITHUB }}
         run: |
-          git config --global user.name "$USER_NAME_GIT"
-          git config --global user.email "$USER_EMAIL_GIT"
+          git config --global user.name "$GIT_USER_NAME"
+          git config --global user.email "$GIT_USER_EMAIL"
           git add README.md
           if ! git diff --cached --quiet; then
             git commit -m "Update of README"
             # Utilisez le PAT pour authentifier le push
-            git push "https://$PAT_GITHUB@github.com/${{ github.repository }}.git" HEAD:${{ github.ref }}
+            git push "https://$GITHUB_PAT@github.com/${{ github.repository }}.git" HEAD:${{ github.ref }}
           else
             echo "Aucun changement détecté."
           fi
