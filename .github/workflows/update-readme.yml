@@ -25,13 +25,18 @@ jobs:
         run: python update_readme.py
 
       - name: Commit and push changes
+        env:
+          GIT_USER_NAME: ${{ secrets.USER_NAME_GIT }}
+          GIT_USER_EMAIL: ${{ secrets.USER_EMAIL_GIT }}
+          GITHUB_PAT: ${{ secrets.PAT_GITHUB }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "$USER_NAME_GIT"
+          git config --global user.email "$USER_EMAIL_GIT"
           git add README.md
           if ! git diff --cached --quiet; then
-            git commit -m "Automatic Update of README"
-            git push
+            git commit -m "Update of README"
+            # Utilisez le PAT pour authentifier le push
+            git push "https://$PAT_GITHUB@github.com/${{ github.repository }}.git" HEAD:${{ github.ref }}
           else
             echo "Aucun changement détecté."
           fi
