@@ -57,7 +57,7 @@
 
 ## 📊 Development Analytics
   
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=23cyy&theme=nightowl&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=23cyy)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23cyy&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true)
 
