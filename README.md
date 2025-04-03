@@ -144,7 +144,7 @@ gantt
 
 <div align="center">
   
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=23cyy&theme=nightowl&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=23cyy&show_icons=true&theme=nightowl&hide_border=true) |
+| ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=23cyy&show_icons=true&theme=nightowl&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=23cyy&show_icons=true&theme=nightowl&hide_border=true) |
 |--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 
 </div>
