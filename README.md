@@ -1,10 +1,8 @@
 # Hi there, I'm **Cyrille**!  ![Header Animation](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
----
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Tech+Explorer" alt="Typing SVG" /></a>
 </div>
-
----
 
 ## 👨🏽💻 About Me
 
@@ -27,7 +25,6 @@
 - Machine Learning
 - UX/UI Design
 
----
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +34,6 @@
 | 🌐 **Frameworks** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
 | 🗄️ **Databases**       | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
----
 
 ## 🚀 Featured Projects
 
@@ -53,7 +49,6 @@
 
 🏫 [ENSIT Website](https://ensit-site-test.onrender.com)
 
----
 
 ## 📊 Development Analytics
   
@@ -63,7 +58,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23cyy&layout=compact&theme=nightowl&hide_border=true)
 
----
 
 ## 📬 Let's Connect!
 
@@ -71,7 +65,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyrillendah.23@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23cyy)
 
----
 
 Added the `Sun 4 Aug 2024`
 
@@ -90,7 +83,6 @@ Added the `Sun 4 Aug 2024`
 
 *This README.md part is inspired of "Gabot"*
 
----
 
 <div align="center">
   
