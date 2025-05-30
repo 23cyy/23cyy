@@ -38,7 +38,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
 
-I'm a third-year Computer Science Engineering student at [ENSIT](https://ensit.ci/), passionate about solving complex problems through innovative software solutions. My journey is driven by constant curiosity and a desire for continuous learning in emerging technologies.
+I'm a Software Engineer, passionate about solving complex problems through innovative software solutions. My journey is driven by constant curiosity and a desire for continuous learning in emerging technologies.
 
 <details>
 <summary><b>🌱 What I'm Passionate About</b></summary>
