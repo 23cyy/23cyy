@@ -127,15 +127,18 @@ gantt
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Featured Projects
 
+> These projects are currently offline as I'm working on new ideas and updates. Links are temporarily disabled but kept here for reference.
+
 <div align="left">
 
 | Project | Description | Link |
 |--------|-------------|------|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" /> | Task Management | [TODO List](https://todo-list-23cyy.netlify.app) |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Game%20Die.png" alt="Game Die" width="20" /> | Mystery Number Game | [Mystery Number](https://find-mystery-number.netlify.app) |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="20" /> | Online Clock | [Online Clock](https://online-clock.onrender.com) |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" /> | French Verb Conjugator | [Conjugator](https://conjugueur-v2.onrender.com) |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" alt="Building" width="20" /> | ENSIT Website | [ENSIT](https://ensit-site-test.onrender.com) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" /> | Task Management | ~~[TODO List](https://todo-list-23cyy.netlify.app)~~ *(offline)* |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Game%20Die.png" alt="Game Die" width="20" /> | Mystery Number Game | ~~[Mystery Number](https://find-mystery-number.netlify.app)~~ *(offline)* |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="20" /> | Online Clock | ~~[Online Clock](https://online-clock.onrender.com)~~ *(offline)* |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" /> | French Verb Conjugator | ~~[Conjugator](https://conjugueur-v2.onrender.com)~~ *(offline)* |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" alt="Building" width="20" /> | ENSIT Website | ~~[ENSIT](https://ensit-site-test.onrender.com)~~ *(offline)* |
+
 
 </div>
 
