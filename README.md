@@ -181,7 +181,7 @@ gantt
 > **This is not a leap year.**
 ><!-- LEAP_YEAR_STATUS_END -->
 ><!-- QUOTE_START -->
-> **Quote of the day** : *Life is beautiful.*
+> **Quote of the day** : *Every day is a new chance.*
 ><!-- QUOTE_END -->
 
 </div>
